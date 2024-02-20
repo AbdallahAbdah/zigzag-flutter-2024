@@ -1,0 +1,7 @@
+{
+    "avdmanager.sdkPath": "F:\\Programs\\SDK Root",
+    "avdmanager.avdHome": "",
+    "avdmanager.sdkManager": "f:\\Programs\\SDK Root\\cmdline-tools\\latest\\lib\\sdkmanager-classpath.jar",
+    "avdmanager.executable": "f:\\Programs\\SDK Root\\cmdline-tools\\latest\\lib\\avdmanager-classpath.jar",
+    "avdmanager.emulator": "C:\\Users\\Abdallah\\.android\\avd\\Pixel_7_Pro_API_UpsideDownCakePrivacySandbox.avd"
+}
